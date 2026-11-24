@@ -5,6 +5,9 @@
 🌐 **Official Cloud Instance:** [https://chat.vanill-ia.com](https://chat.vanill-ia.com)  
 🇫🇷 **Documentation en français :** [README.fr.md](./README.fr.md)
 
+
+<img width="1896" height="1077" alt="image" src="https://github.com/user-attachments/assets/c6773716-397d-4507-9abc-58cf5ca39a09" />
+
 ---
 
 ## ✨ Key Features
